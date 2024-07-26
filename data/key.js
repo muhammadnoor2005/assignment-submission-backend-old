@@ -1,0 +1,1 @@
+exports.SECRET_KEY = "This is key";
